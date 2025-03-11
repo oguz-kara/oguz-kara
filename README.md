@@ -39,5 +39,3 @@ Tech Stack & Tools
     Mobile: React Native & Flutter
     DevOps & Cloud: Docker, GitHub Actions, AWS
     Collaboration: Git, GitHub, Agile/Scrum
-
-This version is clearer, more direct, and easier to read without losing any important details. Let me know if you’d like any tweaks! 😊
